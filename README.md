@@ -1,3 +1,7 @@
+Project objective:-
+Owner of Madhav store wants us to help them create a dashboard to track and analyse their online sales across India.
+Analyze Ecomm sales data created an interactive dashboard using PowerBI.
+
 Project key points:-
 1.	Data collection
 2.	Data cleaning and wrangling
@@ -5,9 +9,7 @@ Project key points:-
 4.	Data visualization
 5.	Dashboard design
 6.	Sharing insights
-Project objective:-
-Owner of Madhav store wants us to help them create a dashboard to track and analyse their online sales across India.
-Analyze Ecomm sales data created an interactive dashboard using PowerBI.
+
 
 Project learnings:--
 1.	created interactive dashboard to track and analyze online sales data.
